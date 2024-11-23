@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Snakes and ladders</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <audio
+      id="background-music"
+      src="./Audio/Nhạc nền vui.mp3"
+      autoplay
+      loop
+    ></audio>
+    <section class="start">
+      <button onclick="playGame()" class="PlayGame">Play</button>
+    </section>
+    <section class="luatImage">
+      <button onclick="Luat()" class="Luat">Play</button>
+    </section>
+    <section class="menu" style="display: none">
+      <button class="play1">SinglePlayer</button>
+      <button class="play2">TwoPlayer</button>
+    </section>
+    <section class="game-frame" style="display: none">
+      <button onclick="restartGame()" class="restartgame">Chơi lại</button>
+      <button onclick="resModel()" class="remodel">Chế độ</button>
+      <div class="board"></div>
+      <div class="dice-frame">
+        <div class="dice">
+          <div class="top">
+            <div class="dot"></div>
+            <div class="dot"></div>
+          </div>
+          <div class="bottom">
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+          </div>
+          <div class="left">
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+          </div>
+          <div class="right">
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+          </div>
+          <div class="front">
+            <div class="dot"></div>
+          </div>
+          <div class="back">
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+          </div>
+        </div>
+        <button class="TungXucXac" disabled>TungXucXac</button>
+      </div>
+      <div class="box-quest">
+        <h2 class="quest"></h2>
+        <button class="answer-button" onclick="checkAnswer('A')"></button>
+        <button class="answer-button" onclick="checkAnswer('B')"></button>
+        <button class="answer-button" onclick="checkAnswer('C')"></button>
+        <button class="answer-button" onclick="checkAnswer('D')"></button>
+      </div>
+    </section>
+  </body>
+  <script src="script.js"></script>
+</html>

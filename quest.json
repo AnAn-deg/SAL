@@ -1,0 +1,842 @@
+[
+  {
+    "name": "câu 1",
+    "question": "Nguyên tử là gì?",
+    "options": [
+      "A. Hạt vô cùng nhỏ, trung hòa về điện",
+      "B. Hạt nhân mang điện tích dương",
+      "C. Vỏ 1 hay nhiều electron mang điện tích âm",
+      "D. Cả 3 ý trên"
+    ],
+    "answer": "C"
+  },
+  {
+    "name": "câu 2",
+    "question": "Nguyên tử A có P = 17 thì A có ?",
+    "options": [
+      "A. 17e, 2 lớp e, có 7e ở lớp ngoài cùng",
+      "B. 16e, 3 lớp e, có 7e ở lớp ngoài cùng",
+      "C. 17e, 3 lớp e, 6e ở lớp ngoài cùng",
+      "D. 17e, 3 lớp, 7e ở lớp ngoài cùng"
+    ],
+    "answer": "D"
+  },
+  {
+    "name": "câu 3",
+    "question": "H2 cho biết ?",
+    "options": [
+      "A. phân tử hidro",
+      "B. phân tử khối hidro",
+      "C. khí hidro",
+      "D. 1 phân tử hidro"
+    ],
+    "answer": "D"
+  },
+  {
+    "name": "câu 4",
+    "question": "4 phân tử oxi là gì?",
+    "options": ["A. 4O", "B. 4O2", "C. O4", "D. 2O2"],
+    "answer": "B"
+  },
+  {
+    "name": "câu 5",
+    "question": "Phân tử Canxi oxit là gì?",
+    "options": ["A. CaO", "B. KO", "C. CO", "D. CuO"],
+    "answer": "A"
+  },
+  {
+    "name": "câu 6",
+    "question": "Mg nặng hay nhẹ hơn C ?",
+    "options": [
+      "A. nặng hơn 0,5 lần",
+      "B. nhẹ hơn 2 lần",
+      "C. nặng hơn 2 lần",
+      "D. nhẹ hơn 0,5 lần"
+    ],
+    "answer": "C"
+  },
+  {
+    "name": "câu 7",
+    "question": "Phân tử nước gồm 2H và O nặng hay nhẹ hơn phân tử metan gồm C và 4H là gì ?",
+    "options": [
+      "A. nặng hơn 1,125 lần",
+      "B. nhẹ hơn 1,125 lần",
+      "C. 2 phân tử bằng nhau",
+      "D. nặng hơn 2 lần"
+    ],
+    "answer": "A"
+  },
+  {
+    "name": "câu 8",
+    "question": "Dãy chất nào toàn là chất đơn",
+    "options": [
+      "A. K, Fe, Cl2, CO",
+      "B. Ca, H2, CO2, Al",
+      "C. Na, Zn, H2O, N2",
+      "D. Cl2, H2, C, N2"
+    ],
+    "answer": "D"
+  },
+  {
+    "name": "câu 9",
+    "question": "Dãy nào toàn là hợp chất ?",
+    "options": [
+      "A. Fe2O3, BaO, CO, CH4",
+      "B. CaO, NO, CO2, O2",
+      "C. NaCl, C6H12O6, H2, CO",
+      "D. CaCO3, CaO, CaO, N2, CO2"
+    ],
+    "answer": "A"
+  },
+  {
+    "name": "câu 10",
+    "question": "Phân tử khối của muối ăn gồm Na và Cl bằng?",
+    "options": [
+      "A. 75,5 (đvC)",
+      "B. 50,5 (đvC)",
+      "C. 58,5 (đvC)",
+      "D. 37,5 (đvC)"
+    ],
+    "answer": "C"
+  },
+  {
+    "name": "câu 11",
+    "question": "Nguyên tử X nặng gấp 2 lần nguyên tử oxi. Vậy X là ... Điền vào chỗ trống.",
+    "options": ["A. Na", "B. Ca", "C. Cu", "D. S"],
+    "answer": "D"
+  },
+  {
+    "name": "câu 12",
+    "question": "Phân tử gồm 1 nguyên tử A liên kết với 3O và nặng gấp 2 lần nguyên tử Canxi, A là ...",
+    "options": ["A. C", "B. S", "C. O", "D. N"],
+    "answer": "S"
+  },
+  {
+    "name": "câu 13",
+    "question": "Phân tử khối của phân tử gồm 2 nguyên tử clo là gì?",
+    "options": ["A. 35,5 (đvC)", "B. 55 (đvC)", "C. 160 (đvC)", "D. 71 (đvC)"],
+    "answer": "D"
+  },
+  {
+    "name": "câu 14",
+    "question": "Kí hiệu hóa học của bạc là gì ?",
+    "options": ["A. Br", "B. Be", "C. Ag", "D. Pb"],
+    "answer": "C"
+  },
+  {
+    "name": "câu 15",
+    "question": "Phân tử khối của phân tử gồm 2Fe, 3S và 12O là gì ?",
+    "options": ["A. 400 (đvC)", "B. 300 (đvC)", "C. 200 (đvC)", "D. 100 (đvC)"],
+    "answer": "A"
+  },
+  {
+    "name": "câu 16",
+    "question": "Phân tử khối của Canxi cacbonnat gồm Ca, C, 3O là gì?",
+    "options": ["A. 25 (đvC)", "B. 50 (đvC)", "C. 75 (đvC)", "D. 100 (đvC)"],
+    "answer": "D"
+  },
+  {
+    "name": "câu 17",
+    "question": "2O2 là gì ?",
+    "options": [
+      "A. Hai phân tử oxi",
+      "B. 2 nguyên tử oxi",
+      "C. 4 nguyên tử oxi",
+      "D. 2 khí oxi"
+    ],
+    "answer": "A"
+  },
+  {
+    "name": "câu 18",
+    "question": "Khí SO2 nặng hơn khí O2 bao nhiêu lần ?",
+    "options": ["A. 1,5 lần", "B. 1,7 lần", "C. 2 lần", "D. 2,1 lần"],
+    "answer": "C"
+  },
+  {
+    "name": "câu 19",
+    "question": "Công thức đúng chuyển đổi giữa lượng chất và khối lượng là gì ?",
+    "options": ["A. M.m.n = 1", "B. M=m.n", "C. M=n/m", "D. m=n.M"],
+    "answer": "D"
+  },
+  {
+    "name": "câu 20",
+    "question": "Nếu đốt cháy 48g lưu huỳnh và thu được 98gam khí sunfuro thì khối lượng oxi đã tham gia và phản ứng là bao nhiêu ?",
+    "options": ["A. 44g", "B. 48g", "C. 50g", "D. 52g"],
+    "answer": "C"
+  },
+  {
+    "name": "câu 21",
+    "question": "Cho 9g Al cháy trong không khí được 10,2g Al2O3. Tính khối lượng oxi.",
+    "options": ["A. 0,9g", "B. 1g", "C. 1,1g", "D. 1,2g"],
+    "answer": "D"
+  },
+  {
+    "name": "câu 22",
+    "question": "Trong 1 phản ứng hóa học, ... khối lượng của các chất sản phẩm bằng tổng khổi lượng của các chất tham gia phản ứng.",
+    "options": ["A. Tổng", "B. Tích", "C. Hiệu", "D. Thương"],
+    "answer": "A"
+  },
+  {
+    "name": "câu 23",
+    "question": "Al + CuSO4 --> Alx(SO4)y + Cu. Tìm x,y ?",
+    "options": ["A. x=2, y=3", "B. x=3, y=4", "C. x=1, y=2", "D. x=y=1"],
+    "answer": "A"
+  },
+  {
+    "name": "câu 24",
+    "question": "Phương trình đúng của photpho cháy trong không khí, tạo thành P2O5.",
+    "options": [
+      "A. P + O2 --> P2O5",
+      "B. 4P + 5O2 --> 2P2O5",
+      "C. P + 2O2 --> P2O5",
+      "D. P + O2 <-- P2O5"
+    ],
+    "answer": "B"
+  },
+  {
+    "name": "câu 25",
+    "question": "Số mol của 19,6g H2SO4",
+    "options": ["A. 0,1 mol", "B. 0,2 mol", "C. 0,3 mol", "D. 0,4 mol"],
+    "answer": "B"
+  },
+  {
+    "name": "câu 26",
+    "question": "Tính %mK có trong phân tử K2CO3",
+    "options": ["A. 56,5%", "B. 56,52%", "C. 56,51%", "D. 56,53%"],
+    "answer": "B"
+  },
+  {
+    "name": "câu 27",
+    "question": "Hãy cho biết 4 mol nguyên tử canxi có khối lượng là gì ?",
+    "options": ["A. 80g", "B. 120g", "C. 160g", "D. 200g"],
+    "answer": "C"
+  },
+  {
+    "name": "câu 28",
+    "question": "Cho C2H5OH. Số nguyên tử H có trong hợp chất là gì ?",
+    "options": ["A. 3", "B. 4", "C. 5", "D. 6"],
+    "answer": "D"
+  },
+  {
+    "name": "câu 29",
+    "question": "Thành phần phần trăm khối lượng của oxi trong Fe2O3?",
+    "options": ["A. 30%", "B. 40%", "C. 50%", "D. 60%"],
+    "answer": "A"
+  },
+  {
+    "name": "câu 30",
+    "question": "Hidro và oxi tác dụng với nhau tạo thành nước. Phương trình hóa học ở phương án nào dưới đây đã viết đúng ?",
+    "options": [
+      "A. 2H + O --> H2O",
+      "B. H2 + O --> H2O",
+      "C. H2 + O2 --> 2H2O",
+      "D. 2H2 + O2 --> 2H2O"
+    ],
+    "answer": "D"
+  },
+  {
+    "name": "câu 31",
+    "question": "Khối lượng mol của không khí bằng: ",
+    "options": ["A. 29", "B. 28", "C. 27", "D. 26"],
+    "answer": "A"
+  },
+  {
+    "name": "câu 32",
+    "question": "Ở nhiệt độ và áp suất, 1 mol N2 và 1 mol CO2 có cùng...Điền vào chổ trống.",
+    "options": [
+      "A. Khối lượng phân tử",
+      "B. Thể tích",
+      "C. Khối lượng mol",
+      "D. Số nguyên tử"
+    ],
+    "answer": "B"
+  },
+  {
+    "name": "câu 33",
+    "question": "Thể tích 1 mol của 2 chất khí bằng nhau nếu được đo ở ... Điền vào chổ trống.",
+    "options": [
+      "A. cùng nhiệt độ",
+      "B. cùng áp suất",
+      "C. cùng nhiệt độ và áp suất",
+      "D. cùng nhiệt độ nhưng áp suất khác nhau"
+    ],
+    "answer": "C"
+  },
+  {
+    "name": "câu 34",
+    "question": "Biết khối lượng mol của muối M2SO4 là 142g. Nguyên tử khối của kim loại M là gì ?",
+    "options": ["A. 26", "B. 25", "C. 24", "D. 23"],
+    "answer": "D"
+  },
+  {
+    "name": "câu 35",
+    "question": "hai chất khí khác nhau có thể tích bằng nhau ở cùng điều kiện nhiệt độ và áp suất thì chúng có ... Điền vào chổ trống.",
+    "options": [
+      "A. cùng khối lượng",
+      "B. cùng số nguyên tử",
+      "C. cùng số mol phân tử",
+      "D. số phân tử khác nhau"
+    ],
+    "answer": "C"
+  },
+  {
+    "name": "câu 36",
+    "question": "Để biết khí A nặng hay nhẹ hơn khí B, ta cần so sánh ... Điền vào chổ trống.",
+    "options": [
+      "A. nguyên tử khối của khí A so với nguyên tử khối của khí B",
+      "B. phân tử khối của khí A so với khối lượng mol của khí B",
+      "C. khối lượng mol phân tử của khí A so với khối lượng mol phân tử của khí B",
+      "D. khối lượng của khí A so với khối lượng của khí B"
+    ],
+    "answer": "C"
+  },
+  {
+    "name": "Câu 37",
+    "question": "Có thể thu những khí nào vào bình đặt đứng (từ những thí nghiệm trong phòng thí nghiệm) ?",
+    "options": ["A. Cl2, CH4", "B. O2, H2", "C. CH4, CO2", "D. Cl2, CO2"],
+    "answer": "D"
+  },
+  {
+    "name": "câu 38",
+    "question": "Trong các khí sau, khí nào nặng nhất ?",
+    "options": ["A. C3H8", "B. Cl2", "C. SO2", "D. O3"],
+    "answer": "B"
+  },
+  {
+    "name": "câu 39",
+    "question": "Khí SO2 nặng hơn khí O2 bao nhiêu lần ?",
+    "options": ["A. 1,5 lần", "B. 1,7 lần", "C. 2 lần", "D. 2,1 lần"],
+    "answer": "C"
+  },
+  {
+    "name": "câu 40",
+    "question": "Một loại đồng oxit màu đen có khối lượng mol phân tử là 80 gam, có thành phần khối lượng là 80% Cu và 20% O. Công thức của oxit là công thức nào ?",
+    "options": ["A. Cu2O", "B. CuO", "C. CuO2", "D. Cu2O3"],
+    "answer": "B"
+  },
+  {
+    "name": "câu 41",
+    "question": "Khối lượng mol khí A bằng 34. Thành phần theo khối lượng của khí A là 5,88% H và 94,12% S. Công thức hóa học của khí A là công thức nào ?",
+    "options": ["A. HS2", "B. HS", "C. H2S", "D. H4S"],
+    "answer": "C"
+  },
+  {
+    "name": "câu 42",
+    "question": "Phương trình hóa học: 2H2 + O2 --> 2H2O cho biết điều gì?",
+    "options": [
+      "A. 2 nguyên tử Hidro phản ứng với 2 nguyên tử Oxi",
+      "B. 2 mol H2 liên kết với 1 phân tử O2 ",
+      "C. 1 mol hơi nước được tạo thành từ 1 mol O2",
+      "D. 2 mol H2 tác dụng vừa hết với 1 mol O2"
+    ],
+    "answer": "D"
+  },
+  {
+    "name": "câu 43",
+    "question": "Trong 0,25 mol C6H12O6 có bao nhiêu gam Cacbon?",
+    "options": ["A. 15 gam", "B. 16 gam", "C. 17 gam", "D. 18 gam"],
+    "answer": "D"
+  },
+  {
+    "name": "câu 44",
+    "question": "Phải lấy bao nhiêu gam sắt để có số nguyên tử nhiều gấp 2 lần số nguyên tử có trong 8 gam lưu huỳnh?",
+    "options": ["A. 28 gam", "B. 29 gam", "C. 30 gam", "D. 31 gam"],
+    "answer": "A"
+  },
+  {
+    "name": "câu 45",
+    "question": "Phương trình hóa học dùng để biểu diễn ngắn gọn gì?",
+    "options": [
+      "A. Một phân tử",
+      "B. Kí hiệu hóa học",
+      "C. Công thức hóa học",
+      "D. Phản ứng hóa học"
+    ],
+    "answer": "D"
+  },
+  {
+    "name": "câu 46",
+    "question": "Dãy nguyên tố hóa học nào toàn là kim loại?",
+    "options": [
+      "A. Fe, Cu, Al",
+      "B. Fe, S, Cu",
+      "C. Fe, C, Al",
+      "D. Fe, Cu, Si"
+    ],
+    "answer": "A"
+  },
+  {
+    "name": "câu 47",
+    "question": "Phản ứng hóa học là gì?",
+    "options": [
+      "A. Là quá trình kết hợp các đơn chất thành hợp chất",
+      "B. Là quá trình biến đổi chất này thành chất khác",
+      "C. là sự trao đổi của 2 hay nhiều chất ban đầu để tạo chất mới",
+      "D. Là quá trình phân hủy chất ban đầu thành nhiều chất"
+    ],
+    "answer": "B"
+  },
+  {
+    "name": "câu 48",
+    "question": "Cho CuO vào dung dịch HCl. Kết quả của phản ứng là gì?",
+    "options": [
+      "A. CuO màu đen bị hòa tan",
+      "B. Tạo thành dd màu xanh lam",
+      "C. Tạo thành dd màu đen, CuO tan",
+      "D. Tạo thành dd xanh lam, CuO tan"
+    ],
+    "answer": "D"
+  },
+  {
+    "name": "câu 49",
+    "question": "Quỳ tím hóa đỏ khi ... Điền vào chổ trống.",
+    "options": [
+      "A. Nhỏ NaOH lên giấy quỳ",
+      "B. Nhỏ HCl lên giấy quỳ",
+      "C. Nhỏ NaCl lên giấy quỳ",
+      "D. Nhỏ H2O lên giấy quỳ"
+    ],
+    "answer": "B"
+  },
+  {
+    "name": "câu 50",
+    "question": "Để có dung dịch màu vàng, ta phải cho ... Điền vào chỗ trống.",
+    "options": [
+      "A. CuO + HCl",
+      "B. CuO + H2SO4",
+      "C. HCl + Fe2O3",
+      "D. H2SO3 + Fe2O3"
+    ],
+    "answer": "C"
+  },
+  {
+    "name": "câu 51",
+    "question": "Hiện tượng khi cho Al vào dung dịch HCl là gì?",
+    "options": [
+      "A. Al tan có khí mùi hắc thoát ra ",
+      "B. Không có hiện tượng ",
+      "C. Có khí không màu thoát ra Al tan",
+      "D. Al tan hoàn toàn"
+    ],
+    "answer": "C"
+  },
+  {
+    "name": "câu 52",
+    "question": "CaO dùng làm khô dãy chất khí ẩm nào sau đây?",
+    "options": [
+      "A. O2, CO2, H2, N2, Cl2",
+      "B. H2, O2, N2, Cl2, NH3",
+      "C. O2, H2, SO2, N2, Cl2",
+      "D. H2, O2, SO2, CO2, CL2"
+    ],
+    "answer": "B"
+  },
+  {
+    "name": "câu 53",
+    "question": "SO2 được tạo thành từ cặp chất nào sao đây?",
+    "options": [
+      "A. Na2SO4 và HCl",
+      "B. Na2SO3 và HCl",
+      "C. H2SO4 và CaSO4",
+      "D. HCl và NaCl"
+    ],
+    "answer": "B"
+  },
+  {
+    "name": "câu 54",
+    "question": "Nước vôi trong là dung dịch ... Điền vào chỗ trống.",
+    "options": ["A. Ca(OH)2", "B. Ba(OH)2", "C. NaOH", "D. KOH"],
+    "answer": "A"
+  },
+  {
+    "name": "câu 55",
+    "question": "Thuốc thử để nhận CaO và Na2O là gì?",
+    "options": [
+      "A. Nước và quỳ tím",
+      "B. Giấy quỳ",
+      "C. Nước",
+      "D. Nước, quỳ tím, HCl"
+    ],
+    "answer": "C"
+  },
+  {
+    "name": "câu 56",
+    "question": "Dung dịch BaCl2 tác dụng dung dịch H2SO4 xuất hiện ... Điền vào chỗ trống.",
+    "options": [
+      "A. Kết tủa trắng",
+      "B. Khí màu trắng",
+      "C. Kết tủa nâu đỏ",
+      "D. Khí có màu hắc"
+    ],
+    "answer": "A"
+  },
+  {
+    "name": "câu 57",
+    "question": "Dung dịch có màu xanh lam là ... Điền vào chỗ trống.",
+    "options": [
+      "A. CuO, Cu, CuSO4",
+      "B. CuO, CuCl2, CuSO4",
+      "C. CuCl2, CuSO4, Cu(NO3)2",
+      "D. CuCl2, Cu, CuSO4"
+    ],
+    "answer": "C"
+  },
+  {
+    "name": "câu 58",
+    "question": "Thuốc thử để nhận Cu(OH)2 và NaOH là gì?",
+    "options": [
+      "A. Nước và quỳ tím",
+      "B. Giấy quỳ",
+      "C. Nước",
+      "D. Nước, quỳ tím, HCl"
+    ],
+    "answer": "C"
+  },
+  {
+    "name": "câu 59",
+    "question": "Cho 300g dung dịch NaOH 10% vào dung dịch H2SO4 20% được dung dịch A có nồng độ là bao nhiêu?",
+    "options": ["A. 10%", "B. 11%", "C. 12%", "D. 13%"],
+    "answer": "B"
+  },
+  {
+    "name": "câu 60",
+    "question": "200ml dung dịch HCl 5M hòa tan hết bao nhiêu gam Sắt?",
+    "options": ["A. 8g Fe", "B. 18g Fe", "C. 28g Fe", "D. 38g Fe"],
+    "answer": "C"
+  },
+  {
+    "name": "câu 61",
+    "question": "Phản ứng trung hòa là phản ứng trao đổi trong ... Điền vào chỗ trống.",
+    "options": [
+      "A. môi trường kiềm",
+      "B. môi trường axit",
+      "C. dung dịch, xảy ra khi có điều kiện",
+      "D. dung dịch, luôn xảy ra"
+    ],
+    "answer": "D"
+  },
+  {
+    "name": "câu 62",
+    "question": "Dung dịch làm quỳ tím hóa xanh là dung dịch nào sau đây?",
+    "options": ["A. NaCl", "B. NaOH", "C. MgSO4", "D. MgCl2"],
+    "answer": "B"
+  },
+  {
+    "name": "câu 63",
+    "question": "SO2 tác dụng được với chất nào sau đây?",
+    "options": ["A. HCl", "B. CO2", "C. CaSO4", "D. CaO"],
+    "answer": "D"
+  },
+  {
+    "name": "câu 64",
+    "question": "Chất nào sau đây bị nhiệt phân hủy?",
+    "options": ["A. Cu(OH)2", "B. Ca(OH)2", "C. HCl", "D. KCl"],
+    "answer": "A"
+  },
+  {
+    "name": "câu 65",
+    "question": "Dãy chất nào toàn là axit yếu?",
+    "options": [
+      "A. HCl, H2SO3, H2SO4",
+      "B. H2SO3, H2CO3, HNO3",
+      "C. H2CO3, H2SO4, H2SO3",
+      "D. H2CO3, H2SO3, H2S"
+    ],
+    "answer": "D"
+  },
+  {
+    "name": "câu 66",
+    "question": "Từ Na2O, CaO, H2O có thể điều chế mấy dung dịch bazo?",
+    "options": ["A. 1", "B. 2", "C. 3", "D. 4"],
+    "answer": "B"
+  },
+  {
+    "name": "câu 67",
+    "question": "Oxit axit là gì?",
+    "options": [
+      "A. Những oxit tác dung với dung dịch axit tạo thành muối và nước",
+      "B. Những oxit tác dụng với dung dịch bazo tạo thành muối và mước",
+      "C. Những oxit không tác dụng với dung dịch bazo và dung dịch axit",
+      "D. Những oxit chỉ tác dụng được với muối"
+    ],
+    "answer": "B"
+  },
+  {
+    "name": "câu 68",
+    "question": "Những dãy chất nào sau đây là oxit axit?",
+    "options": [
+      "A. CO2, SO3, Na2O, NO2",
+      "B. CO2, SO2, H2O, P2O5",
+      "C. SO2, P2O5, CO2, N2O5",
+      "D. H2O, CaO, FeO, CuO"
+    ],
+    "answer": "C"
+  },
+  {
+    "name": "câu 69",
+    "question": "Chất tác dụng với nước tạo ra dung dịch bazo là chất nào sau đây?",
+    "options": ["A. CO2", "B. Na2O", "C. SO2", "D. P2O5"],
+    "answer": "B"
+  },
+  {
+    "name": "câu 70",
+    "question": "Vôi sống có công thức hóa học là gì?",
+    "options": ["A. Ca", "B. Ca(OH)2", "C. CaCO3", "D. CaO"],
+    "answer": "D"
+  },
+  {
+    "name": "câu 71",
+    "question": "Sản phẩm của phản ứng phân hủy Canxicacbonat bởi nhiệt là gì?",
+    "options": [
+      "A. CaO và CO",
+      "B. CaO  và CO2",
+      "C. CaO và SO2",
+      "D. CaO và P2O5"
+    ],
+    "answer": "B"
+  },
+  {
+    "name": "câu 72",
+    "question": "Cặp chất tác dụng với nhau sẽ tạo ra khí Lưu huỳnh đi oxit là cặp chất nào sau đây?",
+    "options": [
+      "A. CaCO3 và HCl",
+      "B. NaSO3 và H2SO4",
+      "C. CuCl2 và KOH",
+      "D. K2CO3 và HNO3"
+    ],
+    "answer": "B"
+  },
+  {
+    "name": "câu 73",
+    "question": "Dẫn hỗn hợp khí gồm CO2, CO, SO2 qua dung dịch nước vôi trong (dư), khí thoát ra là khí gì?",
+    "options": ["A. CO", "B. CO2", "C. SO2", "D. CO2 và SO2"],
+    "answer": "A"
+  },
+  {
+    "name": "câu 74",
+    "question": "Để nhận biết 3 khí không màu: SO2, O2, H2 đựng trong 3 lọ mất nhãn, ta dùng gì để nhận biết 3 chất trên?",
+    "options": [
+      "A. Giấy gùy tím ẩm",
+      "B. Giấy quỳ tím ẩm và dùng que đóm cháy dở còn tàn đỏ",
+      "C. Than hồng trên que đóm",
+      "D. Dẫn các khí vào nước vôi trong"
+    ],
+    "answer": "B"
+  },
+  {
+    "name": "câu 75",
+    "question": "Cho một mẫu giấy quỳ tím vào dung dịch NaOH. Thêm từ từ dung dịch HCl vào cho đến dư, ta thấy màu giấy quỳ tím ... Điền vào chổ trống.",
+    "options": [
+      "A. Màu đỏ không thay đổi",
+      "B. Màu đỏ chuyển dần sang xanh",
+      "C. Màu xanh không thay đổi",
+      "D. Màu xanh chuyển dần sang đỏ"
+    ],
+    "answer": "D"
+  },
+  {
+    "name": "câu 76",
+    "question": "Dung dịch H2SO4 tác dụng với chất nào tạo ra khí Hidro?",
+    "options": ["A. NaOH", "B. Fe", "C. CaO", "D. CO2"],
+    "answer": "B"
+  },
+  {
+    "name": "câu 77",
+    "question": "Tính chất hóa học nào không phải của axit?",
+    "options": [
+      "A. Tác dụng với kim loại",
+      "B. Tác dụng với muối",
+      "C. Tác dụng với oxit axit",
+      "D. Tác dụng với oxit bazo"
+    ],
+    "answer": "C"
+  },
+  {
+    "name": "câu 78",
+    "question": "Thuốc thử dùng để nhận biết dung dịch HCl và dung dịch H2SO4 là gì?",
+    "options": ["A. K2SO4", "B. Ba(OH)2", "C. NaCl", "D. NaNO3"],
+    "answer": "B"
+  },
+  {
+    "name": "câu 79",
+    "question": "Dãy gồm các kim loại tác dụng được với dung dịch HSSO4 là dãy nào sau đây?",
+    "options": [
+      "A. Fe, Cu, Mg",
+      "B. Zn, Fe, Cu",
+      "C. Zn, Fe, Al",
+      "D. Fe, Zn, Ag"
+    ],
+    "answer": "C"
+  },
+  {
+    "name": "câu 80",
+    "question": "Dãy các chất thuộc loại axit là dãy nào dưới đây?",
+    "options": [
+      "A. HCl, H2SO4, Na2S, H2S",
+      "B. Na2SO4, H2SO4, HNO3, H2S",
+      "C. HCl, H2SO4, HNo3, Na2S",
+      "D. HCl, H2SO4, HNO3, H2S"
+    ],
+    "answer": "D"
+  },
+  {
+    "name": "câu 81",
+    "question": "Để an toàn khi pha loãng H2SO4 đặc cần thực hiện theo cách nào?",
+    "options": [
+      "A. Rót từng giọt nước vào axit",
+      "B. Rót từng giọt axit vào nước",
+      "C. Cho cả nước và axit vào cùng 1 lúc",
+      "D. Cả 3 cách trên"
+    ],
+    "answer": "B"
+  },
+  {
+    "name": "câu 82",
+    "question": "Dung dịch axit clohidric tác dụng với sắt tạo thành ... Điền vào chổ trống.",
+    "options": [
+      "A. Sắt(II) clorua và khí hidro",
+      "B. Sắt(III) clorua và khí hidro",
+      "C. Sắt(II) sunfua và khí hidro",
+      "D. Sắt(III) clorua và nước"
+    ],
+    "answer": "A"
+  },
+  {
+    "name": "câu 83",
+    "question": "Để điều chế muối natri clorua, ta chọn những cặp chất nào sau đây?",
+    "options": [
+      "A. Na2SO4, KCl",
+      "B. HCl, Na2SO3",
+      "C. H2SO4, BaCl2",
+      "D. AgNO3, HCl"
+    ],
+    "answer": "B"
+  },
+  {
+    "name": "câu 84",
+    "question": "Phản ứng giữa dung dịch Ba(OH)2 và dung dịch H2SO4 (vừa đủ) thuộc loại phản ứng gì?",
+    "options": [
+      "A. Phản ứng trung hòa",
+      "B. Phản ứng thế",
+      "C. Phản ứng hóa hợp",
+      "D. Phản ứng oxi hóa"
+    ],
+    "answer": "A"
+  },
+  {
+    "name": "câu 85",
+    "question": "Để nhận biết 3 ống nghiệm chứa dung dịch HCl, dung dịch H2SO4 và nước ta dùng:",
+    "options": [
+      "A. Quì tím, dung dịch NaCl",
+      "B. Quì tím, dung dịch NaNO3",
+      "C. Quì tím, dung dịch Na2SO4",
+      "D. Quì tím, dung dịch BaCl2"
+    ],
+    "answer": "D"
+  },
+  {
+    "name": "câu 86",
+    "question": "Dung dịch KOH không có tính chất hóa học nào sao đây?",
+    "options": [
+      "A. Làm quì tím hóa xanh",
+      "B. Tác dụng với oxit axit tạo thành muối và nước",
+      "C. Tác dụng với axit tạo thành muối và nước",
+      "D. Bị nhiệt phân hủy"
+    ],
+    "answer": "D"
+  },
+  {
+    "name": "câu 87",
+    "question": "Chỉ dùng nước có thể nhận biết chất rắn nào trong 4 chất rắn sau đây?",
+    "options": ["A. Zn(OH)2", "B. Fe(OH)2", "C. Na2O", "D. Al(OH)3"],
+    "answer": "C"
+  },
+  {
+    "name": "câu 88",
+    "question": "Cho 1g NaOH rắn tác dụng với dung dịch chứa 1g HNO3. Dung dịch sau phản ứng có môi trường gì?",
+    "options": ["A. Trung tính", "B. Bazo", "C. Axit", "D. Muối"],
+    "answer": "B"
+  },
+  {
+    "name": "câu 89",
+    "question": "Nếu rót 200ml dung dịch NaOH 1M vào ống nghiệm đựng 100ml dung dịch H2SO4 1M thì dung dịch tạo thành sau phản ứng sẽ như thế nào?",
+    "options": [
+      "A. Làm quỳ tím chuyển đỏ ",
+      "B. Làm quỳ tím chuyển xanh",
+      "C. Làm dd phenolphtakenin không màu chuyển đỏ",
+      "D. Không làm đổi màu quỳ tím"
+    ],
+    "answer": "D"
+  },
+  {
+    "name": "câu 90",
+    "question": "Hòa tan 30g NaOH vào 170g nước thì thu được dung dịch NaOH có nồng độ là bao nhiêu?",
+    "options": ["A. 18%", "B. 16%", "C. 15%", "D. 17%"],
+    "answer": "C"
+  },
+  {
+    "name": "câu 91",
+    "question": "Nhỏ từ từ dung dịch NaOH vào dung dịch CuCl2 đến khi kết tủa không tạo thêm nữa thì dừng. Lọc kết tủa rồi đem nung đến khối lượng không đổi. Thu được chất rắn nào sau đây?",
+    "options": ["A. Cu", "B. CuO", "C. Cu2O", "D. Cu(OH)2"],
+    "answer": "B"
+  },
+  {
+    "name": "câu 92",
+    "question": "Hợp chất nào sau đây đều thuộc loại hợp chất hữu cơ?",
+    "options": [
+      "A. CH4, C2H6O, CH3Cl",
+      "B. C2H4, CO, CO2",
+      "C. CaCO3, Mg(HCO3)2, CO2",
+      "D. C2H4O2, C6H6, NaCO3"
+    ],
+    "answer": "A"
+  },
+  {
+    "name": "câu 93",
+    "question": "Trong hợp chất hữu cơ, hóa trị của cacbon luôn luôn là ... Điền vào chỗ trống.",
+    "options": ["A. II", "B. IV", "C. III", "D. I"],
+    "answer": "B"
+  },
+  {
+    "name": "câu 94",
+    "question": "Câu thức phân tử C4H10 có thể biểu diễn được bao nhiêu công thức cấu tạo?",
+    "options": ["A. 3", "B. 2", "C. 4", "D. 5"],
+    "answer": "B"
+  },
+  {
+    "name": "câu 95",
+    "question": "Hidrocacbon X có tỉ khối hơi so với khí Hidro là 15. Khi đốt 1 mol hợp chất X tạo ra 2 mol khí CO2. Công thức phân tử X là gì?",
+    "options": ["A. C2H6", "B. C2H4", "C. C2H2", "D. C3H8"],
+    "answer": "A"
+  },
+  {
+    "name": "câu 96",
+    "question": "Chất không làm mất màu dung dịch Brom là gì?",
+    "options": ["A. C2H6", "B. C2H2", "C. C2H4", "D. C3H4"],
+    "answer": "A"
+  },
+  {
+    "name": "câu 97",
+    "question": "",
+    "options": ["A. ", "B. ", "C. ", "D. "],
+    "answer": ""
+  },
+  {
+    "name": "câu 98",
+    "question": "Axit axetic không thể tác dụng được với chất nào?",
+    "options": ["A. Mg", "B. Ag", "C. NaOH", "D. Na2CO3"],
+    "answer": "B"
+  },
+  {
+    "name": "câu 99",
+    "question": "Cho 9,2 gam rượu etylic tác dụng hết với Natri thì thể tích khí H2 (đktc) là bao nhiêu?",
+    "options": ["A. 8,96 lít", "B. 4,48 lít", "C. 2,24 lít", "D. 1,12 lít"],
+    "answer": "C"
+  },
+  {
+    "name": "câu 100",
+    "question": "Rượu etylic có trong 500ml rượu 40 độ là bao nhiêu?",
+    "options": ["A. 20ml", "B. 200ml", "C. 2ml", "D. 0,2ml"],
+    "answer": "B"
+  }
+]
